@@ -1,0 +1,11 @@
+.app {
+  background: #312355;
+  background: -moz-linear-gradient(left, #312355 0%, #255162 50%, #312355 100%);
+  background: -webkit-linear-gradient(
+    left,
+    #312355 0%,
+    #255162 50%,
+    #312355 100%
+  );
+  background: linear-gradient(to right, #312355 0%, #255162 50%, #312355 100%);
+}

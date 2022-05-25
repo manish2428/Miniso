@@ -1,0 +1,1 @@
+exports.secretOrKey = 'ABCDEFGHIJKL';
